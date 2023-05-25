@@ -1,0 +1,19 @@
+.cart-container {
+    text-align: center;
+    margin-top: 85px;
+    padding: 10px;
+    border-radius: 13px;
+    background: linear-gradient(145deg, #e6e6e6, #ffffff);
+    box-shadow: 5px 5px 10px #666666,
+        -5px -5px 10px #ffffff;
+    height: max-content;
+    position: sticky;
+    top: 20px;
+}
+
+.cart-container button {
+    width: 100%;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}

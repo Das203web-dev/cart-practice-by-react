@@ -1,0 +1,26 @@
+.nav-bar {
+    /* background-color: black; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    border-radius: 0px;
+    background: #000000;
+    /* box-shadow: 5px 5px 0px #000000,
+        -5px -5px 0px #000000; */
+    padding: 0 100px;
+}
+
+.nav-bar div a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    letter-spacing: 0.2px;
+    font-weight: 500;
+}
+
+.nav-bar-link-div a:hover {
+
+    color: orange;
+
+}
